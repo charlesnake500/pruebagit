@@ -13,6 +13,7 @@ public class PruebaGit {
     
     String charles;
     int valor;
+    int num;
     
     
             
