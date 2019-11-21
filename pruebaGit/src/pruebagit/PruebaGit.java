@@ -11,7 +11,7 @@ package pruebagit;
  */
 public class PruebaGit {
     
-    String nombre;
+    String charles;
     int valor;
     
     
@@ -25,7 +25,7 @@ public class PruebaGit {
     //vamos a ver que tal 
     
     public String getNombre(){
-        return nombre;
+        return charles;
     }
     
     
